@@ -5,4 +5,4 @@ USER annex
 WORKDIR /home/annex
 VOLUME /annex-data /git-repos
 EXPOSE 9417
-CMD ["git-annex", "p2phttp", "--directory=/git-repos", "--jobs=4", "--bind=0.0.0.0"]
+CMD ["git", "annex", "p2phttp", "--directory=/git-repos", "--jobs=4", "--bind=0.0.0.0"]
