@@ -4,7 +4,7 @@
 在容器中运行 git-annex p2phttp 服务，快速将你的 git-annex 仓库发布到网络，可作为代码仓库服务器。
 
 ![License](https://img.shields.io/badge/license-AGPL--3.0-blue.svg)
-![Alpine](https://img.shields.io/badge/base-Alpine%203.20-0D597F?logo=alpinelinux)
+![Alpine](https://img.shields.io/badge/base-Alpine%203.21-0D597F?logo=alpinelinux)
 ![git-annex](https://img.shields.io/badge/git--annex-p2phttp-orange?logo=git)
 
 ---
